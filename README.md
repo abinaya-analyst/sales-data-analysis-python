@@ -17,7 +17,8 @@ Superstore sales dataset containing order details, sales, region, and category i
 - Certain regions show comparatively lower sales performance
 
 ## 📊 Sample Visualization
-(Add your chart screenshot here)
+
+![Sales by Region](sales_by_region.png)
 
 ## 🚀 Key Learnings
 - Performed data cleaning and preprocessing
